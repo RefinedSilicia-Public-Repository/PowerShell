@@ -1,0 +1,1 @@
+get-adcomputer -filter "Name -like 'KSPT-W-ETCHER*'" -Properties Name,LastLogonDate

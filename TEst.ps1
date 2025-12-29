@@ -1,0 +1,1 @@
+﻿Set-ADComputer -Identity "JURAKOSKYJ" -DNSHostName "JURAKOSKYJ.corp.sgstool.com"
